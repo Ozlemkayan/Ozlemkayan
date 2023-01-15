@@ -1,19 +1,39 @@
-### Hi there 👋
+<img src ="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" align="right" width="300" height="250">
+### Hi there 👋 I'm Özlem. 
+ 
+ 
 
-<!--
-**Ozlemkayan/Ozlemkayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Ozlemkayanhttps://github.com/Ozlemkayan) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/ozlem__kayan/) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
-[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
-Here are some ideas to get you started:
+<h2 align="center">A Passionate Future Machine Learning Engineer from Turkey</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a Self-Taught, Contributor, Developer and Researcher!!
+
+- 🔭 Self-Learning right now. I'm documenting my #365DaysOfCode journey...
+- 🧙‍♂️ I'm a member of the google developers groups community. 
+- 🎯 I’m currently learning natural language processing.
+
+
+&emsp;&emsp;&emsp;&ensp;
+[<img width="30px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/>](https://dvc.org) 
+[<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/57668889?s=200&v=4"/>](https://dagshub.com) 
+[<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/743164?s=280&v=4"/>](https://julialang.org) 
+[<img width="30px" style="vertical-align: text-top;" src="https://pydata.org/wp-content/uploads/2021/07/cropped-logo.png"/>](https://pydata.org/)
+
+ 
+
+ 
+
+
+
+
+## 📬 Connect with me:
+
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zlem88040106)&nbsp;[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ozlemkayan/)&nbsp;  [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@ozlemkayan5678r)&nbsp;
+ 
+
+
+
+
+
+
+
